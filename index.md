@@ -14,15 +14,6 @@
   }
 </style>
 
-<a class = "intro" href = "Note BD.pdf" download>Note</a>
-<br>
-    Pentru nelamuriri ma gasiti pe mail: sorinasmeureanu@gmail.com
-
-<hr>
-
-<a id = "diagHR" href="Laboratoare/Diagrama_HR.pdf" download> Diagrama HR </a>
-
-
 <a class = "labTitle" href="Laboratoare/Laborator1_BD.pdf" download> Laboratorul 1 </a>
   - SQL
   - Constrangeri de integritate
