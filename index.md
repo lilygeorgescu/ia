@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-## Cursuri
+# Cursuri
 
 ### [Cursul 1](./Cursuri/Curs1.pptx)
  
@@ -11,7 +14,7 @@
   > 
   > Concepte de bază
 
-## Laboratoare
+# Laboratoare
 
 ### [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
 
