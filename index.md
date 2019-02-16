@@ -1,7 +1,7 @@
 
 ## Cursuri
 
-  ### Cursul 1 
+### Cursul 1 
   
   [descarcă](./Cursuri/Curs1.pptx)
  
