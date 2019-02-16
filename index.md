@@ -18,7 +18,7 @@
 
  > Introducere în Python
  
- ### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
+### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
 
  > Introducere în Numpy
  
