@@ -2,7 +2,7 @@
 
 # Cursuri
 
-### [Cursul 1](./Cursuri/Curs1.pdf)
+### [Cursul 1](./Cursuri/Curs1.pptx)
  
   > Sistemul de notare și prezentarea materiei
   >
