@@ -5,10 +5,14 @@
  
   > Sistemul de notare și prezentarea materiei
   >
-  > Introducere în AI
+  > Introducere în inteligența artificială
   >
-  > Învățarea automată
+  > Învățare automată
   > 
   > Concepte de bază
 
 ## Laboratoare
+
+### [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
+
+ > Introducere in Python
