@@ -1,8 +1,8 @@
 
 
-## Cursuri
+# Cursuri
 
-### [Cursul 1](./Cursuri/Curs1.pptx)
+## [Cursul 1](./Cursuri/Curs1.pptx)
  
   > Sistemul de notare și prezentarea materiei
   >
@@ -12,8 +12,8 @@
   > 
   > Concepte de bază
 
-## Laboratoare
+# Laboratoare
 
-### [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
+## [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
 
  > Introducere in Python
