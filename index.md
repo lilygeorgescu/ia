@@ -1,6 +1,7 @@
+
 ## Cursuri
 
-  ### Cursul 1 [[descarcă]](./Cursuri/Curs1.pptx)
+  ### [Cursul 1](./Cursuri/Curs1.pptx)
  
   > Sistemul de notare și prezentarea materiei
   >
