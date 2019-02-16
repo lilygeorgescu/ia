@@ -1,2 +1,2 @@
-Inteligență artificială
----
+# Inteligență artificială
+
