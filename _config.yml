@@ -1,6 +1,4 @@
-site:
-  github:
-    is_project_page: false
+is_project_page: false
 theme: jekyll-theme-slate
 title: Inteligență artificială
-description: no
+description: lala
