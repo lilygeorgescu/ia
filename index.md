@@ -23,7 +23,7 @@
 
  > Introducere în Numpy
  
- > Introducere in Matplotlib
+ > Introducere în Matplotlib
  
  > Date: [images.zip](./Data/Laboratorul_2/images.zip)
  
