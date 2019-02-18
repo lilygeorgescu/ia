@@ -5,11 +5,11 @@
 ### [Cursul 1](./Cursuri/Curs1.pptx)
  
   > Sistemul de notare și prezentarea materiei
-  
+  >
   > Introducere în inteligența artificială
-  
+  >
   > Învățare automată
-  
+  >
   > Concepte de bază
 
 # Laboratoare
@@ -22,9 +22,9 @@
 ### [Laboratorul 2](./Laboratoare/Laboratorul 2.pdf)
 
  > Introducere în Numpy
- 
+ >
  > Introducere în Matplotlib
- 
+ >
  > Date: [images.zip](./Data/Laboratorul_2/images.zip)
  
  
