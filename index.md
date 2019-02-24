@@ -27,4 +27,9 @@
  >
  > Date: [images.zip](./Data/Laboratorul_2/images.zip)
  
+ ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Regula Naive Bayes
+ > 
+ > Date: [data.zip](./Data/MNIST-subset/data.zip)
  
