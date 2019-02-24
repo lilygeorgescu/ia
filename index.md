@@ -31,5 +31,5 @@
 
  > Regula Naive Bayes
  > 
- > Date: [data.zip](./Data/MNIST-subset/data.zip)
+ > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
