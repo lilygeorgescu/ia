@@ -12,6 +12,14 @@
   >
   > Concepte de bază
 
+### [Cursul 2](./Cursuri/Curs2.pptx)
+ 
+  > Concepte general
+  >
+  > Clasificatorul Bayes Naiv
+  >
+  > Măsurarea Performanței
+  
 # Laboratoare
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
