@@ -14,7 +14,7 @@
 
 ### [Cursul 2](./Cursuri/Curs2.pptx)
  
-  > Concepte general
+  > Concepte generale
   >
   > Clasificatorul Bayes Naiv
   >
