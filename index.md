@@ -43,7 +43,7 @@
  >
  > Solutie: [solutie.zip](./solutii-lab/solutie_lab3.zip)
  
- ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
 
  > Metoda celor mai apropiati vecini
  > 
