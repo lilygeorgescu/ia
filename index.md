@@ -40,4 +40,12 @@
  > Regula Naive Bayes
  > 
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ >
+ > Solutie: [solutie.zip](./solutii-lab/solutie_lab3.zip)
+ 
+ ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
+
+ > Metoda celor mai apropiati vecini
+ > 
+ > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
