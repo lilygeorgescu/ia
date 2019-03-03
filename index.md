@@ -46,6 +46,6 @@
 ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
 
  > Metoda celor mai apropiati vecini
- > 
+ >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
