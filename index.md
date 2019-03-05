@@ -18,8 +18,14 @@
   >
   > Clasificatorul Bayes Naiv
   >
-  > Măsurarea Performanței
+  > Măsurarea performanței
   
+### [Cursul 3](./Cursuri/Curs3.pptx)
+ 
+  > Metoda celor mai apropiați vecini
+  >
+  > Blestemul dimensionalității
+    
 # Laboratoare
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -37,7 +43,7 @@
  
 ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
 
- > Regula Naive Bayes
+ > Clasificatorul Bayes Naiv
  > 
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  >
