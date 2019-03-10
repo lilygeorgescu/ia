@@ -56,6 +56,6 @@
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
 # Proiect
-### [Link catre pagina competitiei](https://www.kaggle.com/c/ml-unibuc-2019-24)
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
  
