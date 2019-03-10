@@ -55,6 +55,14 @@
  >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
+### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Support Vector Machines 
+ >
+ > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ 
 # Proiect
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
