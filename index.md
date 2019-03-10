@@ -47,11 +47,15 @@
  > 
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  >
- > Solutie: [solutie.zip](./solutii-lab/solutie_lab3.zip)
+ > Soluție: [solutie.zip](./solutii-lab/solutie_lab3.zip)
  
 ### [Laboratorul 4](./Laboratoare/Laboratorul 4.pdf)
 
  > Metoda celor mai apropiați vecini
  >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ 
+# Proiect
+### [Link catre pagina competitiei](https://www.kaggle.com/c/ml-unibuc-2019-24a)
+### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
  
