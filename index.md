@@ -71,6 +71,13 @@
  >
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
+### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
+
+ > Modelul 'sac de cuvinte'
+ > 
+ > Regresia rigde
+ >
+ > Movie Review Data: [Movie_Review_Data.zip](./Data/Movie_Review_Data/Movie_Review_Data.zip) 
 # Proiect
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
