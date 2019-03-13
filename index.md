@@ -62,6 +62,8 @@
  > Metoda celor mai apropiați vecini
  >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ >
+ > Soluție: [solutie.zip](./solutii-lab/solutie_lab4.zip)
  
 ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
 
