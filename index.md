@@ -69,7 +69,7 @@
 
  > Normalizarea datelor
  > 
- > Mașini cu Vectori Suport 
+ > Mașini cu Vectori Suport  
  >
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
