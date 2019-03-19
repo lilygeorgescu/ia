@@ -72,6 +72,8 @@
  > Mașini cu Vectori Suport  
  >
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ >
+ > Soluție: [solutie.zip](./solutii-lab/solutie_lab5.zip)
  
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6.pdf)
 
