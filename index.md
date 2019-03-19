@@ -81,6 +81,14 @@
  >
  > Movie Review Data: [Movie_Review_Data.zip](./Data/Movie_Review_Data/Movie_Review_Data.zip) 
  
+### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
+
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient
+ 
 # Proiect
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
