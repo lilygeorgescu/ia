@@ -91,6 +91,15 @@
  >
  > Algoritmul coborârii pe gradient
  
+### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
+
+ > Antrenarea perceptronul în Scikit-learn
+ >
+ > Antrenarea rețelelor neuronale în Scikit-learn
+ >
+ > Movie Review Data și puncte 3D: [Movie_Review_Data_3D_points.zip](./Data/Laboratorul_8/lab8_scripts_and_data.zip)
+ 
+ 
 # Proiect
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
 ### [Link pentru înscriere](https://www.kaggle.com/t/6fb65338657b4534a90a8be204a0086a)
