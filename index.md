@@ -42,7 +42,7 @@
   >
   > Cod: [code.zip](./Data/Curs5/Curs5_code.zip)
   
- ### [Cursul 6](./Cursuri/Curs6.pptx)
+### [Cursul 6](./Cursuri/Curs6.pptx)
  
   > Rețele neuronale
   >
