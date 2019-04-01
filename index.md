@@ -98,6 +98,8 @@
  > Regresia rigde
  >
  > Movie Review Data: [Movie_Review_Data.zip](./Data/Movie_Review_Data/Movie_Review_Data.zip) 
+ >
+ > Soluție: [solutie.zip](./solutii-lab/solutie_lab6.zip)
  
 ### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
 
@@ -106,6 +108,8 @@
  > Rețele neuronale
  >
  > Algoritmul coborârii pe gradient
+ >
+ > Soluție: [solutie.zip](./solutii-lab/solutie_lab7.zip)
  
 ### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
 
