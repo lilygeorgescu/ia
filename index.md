@@ -50,6 +50,12 @@
   >
   > Cod: [code.zip](./Data/Curs6/Curs6_code.zip)
   
+### [Cursul 7](./Cursuri/Curs7.pptx)
+ 
+  > Rețele neuronale convoluționale
+  >
+  > Recapitulare
+  
 # Laboratoare
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
