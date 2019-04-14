@@ -11,6 +11,14 @@
   >
   > Concepte de bază
   
+### [Cursul 2](./Cursuri/Curs2.pptx)
+ 
+  > Concepte generale
+  >
+  > Clasificatorul Bayes Naiv
+  >
+  > Măsurarea performanței
+  
 # Laboratoare
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
@@ -26,6 +34,11 @@
  >
  > Date: [images.zip](./Data/Laboratorul_2/images.zip)
  
+ ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
+
+ > Clasificatorul Bayes Naiv
+ > 
+ > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
 
 # Proiect
 ### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-24)
