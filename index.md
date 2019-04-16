@@ -33,6 +33,8 @@
  > Introducere în Matplotlib
  >
  > Date: [images.zip](./Data/Laboratorul_2/images.zip)
+ >
+ > Soluție: [solutie.zip](./solutii/solutie_lab2.zip)
  
 ### [Laboratorul 3](./Laboratoare/Laboratorul 3.pdf)
 
