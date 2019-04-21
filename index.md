@@ -24,6 +24,7 @@
   > Metoda celor mai apropiați vecini
   >
   > Blestemul dimensionalității
+
 # Laboratoare
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
