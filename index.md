@@ -57,6 +57,15 @@
  >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
+ ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+
+ > Normalizarea datelor
+ > 
+ > Mașini cu Vectori Suport  
+ >
+ > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
+ 
+ 
 # Notare Proiecte
 
 ### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf)
