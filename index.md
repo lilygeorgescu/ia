@@ -26,6 +26,7 @@
   > Blestemul dimensionalității
 
 # Laboratoare
+
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
 ### [Instalare Python - Linux](./Laboratoare/Instalare Python cu Anaconda- Linux.pdf)
 ### [Laboratorul 1](./Laboratoare/Laboratorul 1.pdf)
@@ -59,3 +60,8 @@
 # Notare Proiecte
 
 ### [Note Seria 24, Grupa 311, Reluare studii](./Note/Note-proiect-24-2019.pdf)
+
+# Proiect Seria 23
+
+### [Link către pagina competiției](https://www.kaggle.com/c/ml-unibuc-2019-23)
+### [Link pentru înscriere](https://www.kaggle.com/t/d1952e556a8049ae9b969f38799bd5d6)
