@@ -57,7 +57,7 @@
  >  
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  
- ### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
+### [Laboratorul 5](./Laboratoare/Laboratorul 5.pdf)
 
  > Normalizarea datelor
  > 
