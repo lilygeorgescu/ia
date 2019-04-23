@@ -25,6 +25,14 @@
   >
   > Blestemul dimensionalității
 
+### [Cursul 4](./Cursuri/Curs4.pptx)
+ 
+  > Metode kernel
+  >
+  > Regresia Ridge
+  >
+  > Mașini cu Vectori Suport
+  
 # Laboratoare
 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
