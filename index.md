@@ -74,7 +74,15 @@
  > Mașini cu Vectori Suport  
  >
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
- 
+
+### [Laboratorul 6](./Laboratoare/Laboratorul 6_regresie.pdf)
+
+ > Modelul 'sac de cuvinte'
+ > 
+ > Regresia rigde
+ >
+ > Automate Essay Scoring: [Automate_Essay_Scoring.zip](./Data/Automate_Essay_Scoring/Data.zip) 
+
  
 # Notare Proiecte
 
