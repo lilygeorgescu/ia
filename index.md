@@ -83,7 +83,7 @@
  > 
  > Regresia rigde
  >
- > Automate Essay Scoring: [Automate_Essay_Scoring.zip](./Data/Automate_Essay_Scoring/Data.zip) 
+ > Automated Essay Scoring: [Automated_Essay_Scoring.zip](./Data/Automated_Essay_Scoring/Data.zip) 
 
  
 # Notare Proiecte
