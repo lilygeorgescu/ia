@@ -83,8 +83,23 @@
  > 
  > Regresia rigde
  >
- > Automated Essay Scoring: [Automated_Essay_Scoring.zip](./Data/Automated_Essay_Scoring/Data.zip) 
+ > Automated Essay Scoring: [Automated_Essay_Scoring.zip](./Data/Automated_Essay_Scoring/Data.zip)
+ 
+### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
 
+ > Perceptronul
+ >
+ > Rețele neuronale
+ >
+ > Algoritmul coborârii pe gradient 
+ 
+### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
+
+ > Antrenarea perceptronul în Scikit-learn
+ >
+ > Antrenarea rețelelor neuronale în Scikit-learn
+ >
+ > Movie Review Data și puncte 3D: [Movie_Review_Data_3D_points.zip](./Data/Laboratorul_8/lab8_scripts_and_data.zip) 
  
 # Notare Proiecte
 
