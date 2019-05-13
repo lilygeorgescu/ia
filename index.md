@@ -75,7 +75,7 @@
  >
  > MNIST-subset: [data.zip](./Data/MNIST-subset/data.zip)
  >
- > Soluție parțială: [solutie_partiala.zip](./solutii/lab5_solutie_partiala.zip)
+ > Soluție: [solutie.zip](./solutii/solutie_lab5.zip)
 
 ### [Laboratorul 6](./Laboratoare/Laboratorul 6_regresie.pdf)
 
