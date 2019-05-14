@@ -94,6 +94,8 @@
  > Rețele neuronale
  >
  > Algoritmul coborârii pe gradient 
+ >
+ > Script [script.py](./solutii/lab7.py)
  
 ### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
 
