@@ -84,6 +84,8 @@
  > Regresia rigde
  >
  > Automated Essay Scoring: [Automated_Essay_Scoring.zip](./Data/Automated_Essay_Scoring/Data.zip)
+ >
+ > Soluție parțială: [solutie.zip](./solutii/lab_6_solutie_partiala.zip)
  
 ### [Laboratorul 7](./Laboratoare/Laboratorul 7.pdf)
 
