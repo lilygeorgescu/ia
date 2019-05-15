@@ -20,7 +20,7 @@ def plot_decision(X_, W_1, W_2, b_1, b_2):
     yy = np.random.normal(0, 1, (100000))  
     X = np.array([xx, yy]).transpose() 
     X = np.concatenate((X, X_)) 
-    _, _, _, output = forward_pass(X, W_1, b_1, W_2, b_2)
+    _, _, _, output = forward(X, W_1, b_1, W_2, b_2)
     y = np.squeeze(np.round(output))  
     plt.plot(X[y == 0, 0], X[y == 0, 1], 'b+')
     plt.plot(X[y == 1, 0], X[y == 1, 1], 'r+') 
