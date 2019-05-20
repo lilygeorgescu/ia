@@ -103,6 +103,8 @@
  >
  > Antrenarea rețelelor neuronale în Scikit-learn
  >
+ > Script [script.py](./solutii/exemplu_mlp.py)
+ >
  > Movie Review Data și puncte 3D: [Movie_Review_Data_3D_points.zip](./Data/Laboratorul_8/lab8_scripts_and_data.zip) 
  
 # Notare Proiecte
