@@ -96,6 +96,8 @@
  > Algoritmul coborârii pe gradient 
  >
  > Script [script.py](./solutii/lab7.py)
+ >
+ > Soluție: [solutie.zip](./solutii/solutie_lab7.zip)
  
 ### [Laboratorul 8](./Laboratoare/Laboratorul 8.pdf)
 
