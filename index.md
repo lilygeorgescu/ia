@@ -33,6 +33,14 @@
   >
   > Mașini cu Vectori Suport
   
+### [Cursul 5](./Cursuri/Curs5.pptx)
+ 
+  > Optimizarea funcțiilor de pierdere
+  >
+  > Algoritmul coborârii pe gradient
+  >
+  > Cod: [code.zip](./Data/Curs5/Curs5_code.zip)
+  
 # Laboratoare
 
 ### [Instalare Python - Windows](./Laboratoare/Instalare Python cu Anaconda- Windows.pdf)
